@@ -63,7 +63,7 @@ Y alguna más cocinandose...
 </li>
 
 <li>
-<a href="https://t.me/marcoosp7"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+<a href="https://t.me/marcoosp7"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" width="50px" height="50px"/></a>
 </li>
 	
 </ul>
