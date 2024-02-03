@@ -15,7 +15,7 @@ Soy desarrollador web graduado 2024 en Málaga, tras terminar el grado en Crimin
 Y alguna más cocinandose...
 
 ## Puede contactarme en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcosperezdaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcosperezdaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcosperezdaw)
 
 ## Mi ruta de aprendizaje:
 
