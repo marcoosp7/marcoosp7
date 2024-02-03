@@ -51,13 +51,20 @@ Y alguna más cocinandose...
 ### VIDEOS O HERRAMIENTAS EN LAS QUE ME HE APOYADO PARA MI APRENDIZAJE FUERA DEL ÁMBITO ACADÉMICO:
 
 #### Git y GitHub:
-[![Ver mi video en YouTube](https://img.youtube.com/vi/3GymExBkKjE/maxresdefault.jpg)](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure){:width="400"}
+<a href="https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure" target="_blank">
+  <img src="https://img.youtube.com/vi/3GymExBkKjE/maxresdefault.jpg" width="400" alt="Ver mi video en YouTube">
+</a>
 
 #### Python:
-[![Ver mi segundo video en YouTube](https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg)](https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2){:width="400"}
+<a href="https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2" target="_blank">
+  <img src="https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg" width="400" alt="Ver mi segundo video en YouTube">
+</a>
 
 #### Django:
-[![Ver mi lista de reproducción en YouTube](https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB){:width="400"}
+<a href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB" target="_blank">
+  <img src="https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg" width="400" alt="Ver mi lista de reproducción en YouTube">
+</a>
+
 
 
 
