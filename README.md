@@ -50,13 +50,13 @@ Y alguna más cocinandose...
 
   <li style="margin-bottom: 10px;">
     <a href="https://linkedin.com/in/marcosperezdaw" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-marcosperezdaw-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-marcosperezdaw-%230072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </li>
 
   <li style="margin-bottom: 10px;">
     <a href="mailto:marcos7daw@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-marcos7daw-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-marcos7daw-%23d14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </li>
 
@@ -67,6 +67,7 @@ Y alguna más cocinandose...
   </li>
 
 </ul>
+
 
 
 
