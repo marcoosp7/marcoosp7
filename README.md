@@ -25,4 +25,4 @@ Y alguna más cocinandose...
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/marcos7daw@gmail.com-email_personal_(respuesta_rapida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/marcos7daw@gmail.com-email_personal_(respuesta_rapida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marcos7daw@gmail.com)
