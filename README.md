@@ -25,14 +25,15 @@ Soy desarrollador web graduado 2024 en Málaga, tras terminar el grado en Crimin
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 - ![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+- ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
 
 ### Frontend:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 - ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
-- ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
+
 
 ### Version Control and Tools:
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
