@@ -46,29 +46,28 @@ Y alguna más cocinandose...
 <br><br>
 
 ## Puede contactarme en:
-<ul>
+<ul style="list-style-type: none; padding: 0;">
 
-<li>
-<a href="https://linkedin.com/in/marcosperezdaw" target="_blank">
-<img  src="https://img.shields.io/badge/linkedin:  marcosperezdaw-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <li style="margin-bottom: 10px;">
+    <a href="https://linkedin.com/in/marcosperezdaw" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-marcosperezdaw-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </li>
 
-<br>
+  <li style="margin-bottom: 10px;">
+    <a href="mailto:marcos7daw@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-marcos7daw-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </li>
 
-<li>
-<a href="mailto:marcos7daw@gmail.com" target="_blank">
-<img  src="https://img.shields.io/badge/gmail:  marcos7daw-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+  <li style="margin-bottom: 10px;">
+    <a href="https://t.me/marcoosp7" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" />
+    </a>
+  </li>
 
-<li>
-<a href="https://t.me/marcoosp7" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" style="margin-bottom: 5px;" />
-</a>
-</li>
-	
 </ul>
+
 
 
 
