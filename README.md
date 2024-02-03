@@ -40,6 +40,9 @@ Soy desarrollador web graduado 2024 en Málaga, tras terminar el grado en Crimin
 Y alguna más cocinandose...
 <br><br>
 
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoosp7)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Mi ruta de aprendizaje:
 
 <br><br>
@@ -59,6 +62,10 @@ Y alguna más cocinandose...
 <a href="mailto:marcos7daw@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  marcos7daw-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+</li>
+
+<li>
+<a href="https://t.me/marcoosp7"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 </li>
 	
 </ul>
