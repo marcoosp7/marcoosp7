@@ -49,6 +49,11 @@ Y alguna más cocinandose...
 ## Mi ruta de aprendizaje (AUTODIDACTA):
 ### VIDEOS O HERRAMIENTAS EN LAS QUE ME HE APOYADO PARA MI APRENDIZAJE FUERA DEL ÁMBITO ACADÉMICO:
 Git y GitHub: [![Ver mi video en YouTube](https://img.youtube.com/vi/3GymExBkKjE/maxresdefault.jpg)](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure)
+<br>
+Python: [![Ver mi segundo video en YouTube](https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg)](https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2)
+<br>
+Django: [![Ver mi lista de reproducción en YouTube](https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB)
+
 
 <br><br>
 
