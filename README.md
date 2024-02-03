@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/marcoosp7]
 
 Soy desarrollador web graduado 2024 en Málaga, tras terminar el grado en Criminología en la UMA, tengo varios repositorios creados en privado pues son mis prácticas en las que voy aprendiendo a programar en diferentes lenguajes, haré públicos los trabajos que más merezcan la pena compartir con la comunidad.
 
