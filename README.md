@@ -41,7 +41,7 @@ Y alguna más cocinandose...
 <br><br>
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoosp7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=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)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mi ruta de aprendizaje:
 
