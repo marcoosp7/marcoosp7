@@ -65,6 +65,7 @@ Y alguna más cocinandose...
   <img src="https://img.youtube.com/vi/TbcEqkabAWU/maxresdefault.jpg" width="400" alt="Ver mi lista de reproducción en YouTube">
 </a>
 
+### JavaScript, Jquery, NodeJs, Angular 
 [Udemy - Curso de JavaScript](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/)
 
 
